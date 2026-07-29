@@ -121,9 +121,15 @@ footer{
     margin-bottom: 20px;
     line-height: 1.8;
     text-align: justify;
+
+.card {
+display: flex;
+flex-direction: column;
+height: 100%;
 }
 .card h3 {
 text-align: center;
+margin-bottom: 15px;
 }
 .card p {
 text-align: justify;
