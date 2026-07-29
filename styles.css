@@ -122,3 +122,10 @@ footer{
     line-height: 1.8;
     text-align: justify;
 }
+.card h3 {
+text-align: center;
+}
+.card p {
+text-align: justify;
+line-height: 1.7;
+}
